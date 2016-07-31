@@ -7,17 +7,12 @@ An awesome replacement for JavaScript's alert.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'sweetalert'
+gem 'sweetalert', git: 'https://github.com/roshan92/sweetalert.git'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install sweetalert
-
 
 ## Contributing
 
