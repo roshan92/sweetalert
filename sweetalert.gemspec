@@ -4,14 +4,14 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'sweetalert/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "sweetalert"
+  spec.name          = "sweet-alert"
   spec.version       = Sweetalert::VERSION
   spec.authors       = ["Roshan"]
   spec.email         = ["icemission@gmail.com"]
 
   spec.summary       = "This gem provides Sweet alert for your Rails application."
   spec.description   = ""
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/roshan92/sweetalert"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
