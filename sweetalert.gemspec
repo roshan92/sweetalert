@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'sweetalert/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "sweet-alert"
+  spec.name          = "sweet_alert"
   spec.version       = Sweetalert::VERSION
   spec.authors       = ["Roshan"]
   spec.email         = ["icemission@gmail.com"]
