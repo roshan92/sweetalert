@@ -1,5 +1,7 @@
 # Sweetalert
 
+[![Gem Version](https://badge.fury.io/rb/sweet_alert.svg)](https://badge.fury.io/rb/sweet_alert)
+
 An awesome replacement for JavaScript's alert.
 
 ## Installation
